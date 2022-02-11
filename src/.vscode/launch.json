@@ -1,0 +1,665 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch OverrideOverload2",
+            "request": "launch",
+            "mainClass": "OverrideOverload2",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch DateCreate",
+            "request": "launch",
+            "mainClass": "DateCreate",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch SwitchEnum",
+            "request": "launch",
+            "mainClass": "SwitchEnum",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractAccess",
+            "request": "launch",
+            "mainClass": "AbstractAccess",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractCast",
+            "request": "launch",
+            "mainClass": "AbstractCast",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractClass",
+            "request": "launch",
+            "mainClass": "AbstractClass",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractConcrete",
+            "request": "launch",
+            "mainClass": "AbstractConcrete",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractInterface",
+            "request": "launch",
+            "mainClass": "AbstractInterface",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArgumentPromote",
+            "request": "launch",
+            "mainClass": "ArgumentPromote",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArgumentString",
+            "request": "launch",
+            "mainClass": "ArgumentString",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArgumentStringBuilder",
+            "request": "launch",
+            "mainClass": "ArgumentStringBuilder",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArgumentsVarargs",
+            "request": "launch",
+            "mainClass": "ArgumentsVarargs",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraDefine",
+            "request": "launch",
+            "mainClass": "ArraDefine",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch Array2Define",
+            "request": "launch",
+            "mainClass": "Array2Define",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayCompare",
+            "request": "launch",
+            "mainClass": "ArrayCompare",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListDefine",
+            "request": "launch",
+            "mainClass": "ArrayListDefine",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListMethod",
+            "request": "launch",
+            "mainClass": "ArrayListMethod",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraySize",
+            "request": "launch",
+            "mainClass": "ArraySize",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch CastingAbstract",
+            "request": "launch",
+            "mainClass": "CastingAbstract",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch CastingObject",
+            "request": "launch",
+            "mainClass": "CastingObject",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch CastingPrimitive",
+            "request": "launch",
+            "mainClass": "CastingPrimitive",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassAccessPrivate",
+            "request": "launch",
+            "mainClass": "ClassAccessPrivate",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassBlock",
+            "request": "launch",
+            "mainClass": "ClassBlock",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassInitialize",
+            "request": "launch",
+            "mainClass": "ClassInitialize",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassMethod1",
+            "request": "launch",
+            "mainClass": "ClassMethod1",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassMethod2",
+            "request": "launch",
+            "mainClass": "ClassMethod2",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassMethod3",
+            "request": "launch",
+            "mainClass": "ClassMethod3",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClassMethod4",
+            "request": "launch",
+            "mainClass": "ClassMethod4",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstructorChaining",
+            "request": "launch",
+            "mainClass": "ConstructorChaining",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstructorDefault",
+            "request": "launch",
+            "mainClass": "ConstructorDefault",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstructorOrder",
+            "request": "launch",
+            "mainClass": "ConstructorOrder",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstructorSuper",
+            "request": "launch",
+            "mainClass": "ConstructorSuper",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstructorTest",
+            "request": "launch",
+            "mainClass": "ConstructorTest",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ConstructorThis",
+            "request": "launch",
+            "mainClass": "ConstructorThis",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch Date",
+            "request": "launch",
+            "mainClass": "Date",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionChain",
+            "request": "launch",
+            "mainClass": "ExceptionChain",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionCustomary",
+            "request": "launch",
+            "mainClass": "ExceptionCustomary",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionFinally",
+            "request": "launch",
+            "mainClass": "ExceptionFinally",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionMask",
+            "request": "launch",
+            "mainClass": "ExceptionMask",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionSkip",
+            "request": "launch",
+            "mainClass": "ExceptionSkip",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionThrow",
+            "request": "launch",
+            "mainClass": "ExceptionThrow",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionThrowNew",
+            "request": "launch",
+            "mainClass": "ExceptionThrowNew",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionThrows",
+            "request": "launch",
+            "mainClass": "ExceptionThrows",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionTryCatch",
+            "request": "launch",
+            "mainClass": "ExceptionTryCatch",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowFor",
+            "request": "launch",
+            "mainClass": "FlowFor",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowForSimplified",
+            "request": "launch",
+            "mainClass": "FlowForSimplified",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowIf",
+            "request": "launch",
+            "mainClass": "FlowIf",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowInfiniteLoop",
+            "request": "launch",
+            "mainClass": "FlowInfiniteLoop",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowSwitch",
+            "request": "launch",
+            "mainClass": "FlowSwitch",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowTest",
+            "request": "launch",
+            "mainClass": "FlowTest",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlowWhile",
+            "request": "launch",
+            "mainClass": "FlowWhile",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch FunctionReturn",
+            "request": "launch",
+            "mainClass": "FunctionReturn",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch InheritanceMethods",
+            "request": "launch",
+            "mainClass": "InheritanceMethods",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch InheritancePolyParams",
+            "request": "launch",
+            "mainClass": "InheritancePolyParams",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch InheritanceVirtual",
+            "request": "launch",
+            "mainClass": "InheritanceVirtual",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceAbstract",
+            "request": "launch",
+            "mainClass": "InterfaceAbstract",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceDefine",
+            "request": "launch",
+            "mainClass": "InterfaceDefine",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch InterfaceVariable",
+            "request": "launch",
+            "mainClass": "InterfaceVariable",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaDefine",
+            "request": "launch",
+            "mainClass": "LambdaDefine",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaFilter",
+            "request": "launch",
+            "mainClass": "LambdaFilter",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaForEach",
+            "request": "launch",
+            "mainClass": "LambdaForEach",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaInterface",
+            "request": "launch",
+            "mainClass": "LambdaInterface",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaPassFuncion",
+            "request": "launch",
+            "mainClass": "LambdaPassFuncion",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaValidate",
+            "request": "launch",
+            "mainClass": "LambdaValidate",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorBinary",
+            "request": "launch",
+            "mainClass": "OperatorBinary",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorEqual",
+            "request": "launch",
+            "mainClass": "OperatorEqual",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperatorTenary",
+            "request": "launch",
+            "mainClass": "OperatorTenary",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverloadFinal",
+            "request": "launch",
+            "mainClass": "OverloadFinal",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverloadHiding",
+            "request": "launch",
+            "mainClass": "OverloadHiding",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverloadOverride",
+            "request": "launch",
+            "mainClass": "OverloadOverride",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverloadPrivate",
+            "request": "launch",
+            "mainClass": "OverloadPrivate",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverloadStatic",
+            "request": "launch",
+            "mainClass": "OverloadStatic",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimitiveFloat",
+            "request": "launch",
+            "mainClass": "PrimitiveFloat",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimitiveInt",
+            "request": "launch",
+            "mainClass": "PrimitiveInt",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticClass",
+            "request": "launch",
+            "mainClass": "StaticClass",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticFinal",
+            "request": "launch",
+            "mainClass": "StaticFinal",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticInitial",
+            "request": "launch",
+            "mainClass": "StaticInitial",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticInitialOrder",
+            "request": "launch",
+            "mainClass": "StaticInitialOrder",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticMethods",
+            "request": "launch",
+            "mainClass": "StaticMethods",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticObject",
+            "request": "launch",
+            "mainClass": "StaticObject",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringAccess",
+            "request": "launch",
+            "mainClass": "StringAccess",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringAdd",
+            "request": "launch",
+            "mainClass": "StringAdd",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringCompare",
+            "request": "launch",
+            "mainClass": "StringCompare",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringCreate",
+            "request": "launch",
+            "mainClass": "StringCreate",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringDelete",
+            "request": "launch",
+            "mainClass": "StringDelete",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringFind",
+            "request": "launch",
+            "mainClass": "StringFind",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringImmutable",
+            "request": "launch",
+            "mainClass": "StringImmutable",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringUpdate",
+            "request": "launch",
+            "mainClass": "StringUpdate",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringX",
+            "request": "launch",
+            "mainClass": "StringX",
+            "projectName": "src_28da2b92"
+        },
+        {
+            "type": "java",
+            "name": "Launch VariableLocal",
+            "request": "launch",
+            "mainClass": "VariableLocal",
+            "projectName": "src_28da2b92"
+        }
+    ]
+}
